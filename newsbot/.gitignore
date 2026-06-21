@@ -1,0 +1,11 @@
+# シークレットが含まれるため絶対にコミットしない
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# ビルド成果物
+*.zip
+layer/
