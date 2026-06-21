@@ -1,0 +1,5 @@
+# ローカル開発・テスト専用（Lambda にはデプロイしない）
+-r requirements.txt
+boto3==1.38.25
+pytest==8.3.5
+python-dotenv==1.1.0
